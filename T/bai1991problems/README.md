@@ -13,11 +13,11 @@ Debido a que el ángulo del prisma es pequeño se puede aproximar el ángulo de 
 /> 
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?\delta=(1.5-1)4°" border="0"
+  "http://latex.codecogs.com/gif.latex?\delta=(1.5-1)4^{\circ}" border="0"
 /> 
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?\delta=2°" border="0"
+  "http://latex.codecogs.com/gif.latex?\delta=2^{\circ}" border="0"
 /> 
 
 Luego, como se ilustra en la figura, el ángulo al que se debe girar el espejo es
@@ -27,5 +27,5 @@ Luego, como se ilustra en la figura, el ángulo al que se debe girar el espejo e
 /> 
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?\gamma=1°" border="0"
+  "http://latex.codecogs.com/gif.latex?\gamma=1^{\circ}" border="0"
 /> 
