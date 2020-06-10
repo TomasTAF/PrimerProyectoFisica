@@ -101,19 +101,19 @@ Luego, sustituyendo en la segunda ecuación, se tiene
 Pero esa es la distancia del segundo plano principal a la imagen. Así que hay que calcular la distancia del vértice a la imagen
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?h_1=\frac{-\frac{3}{20}m(1.5-1)0.2m}{(0.1m)(1.5)}" border="0"
+  "http://latex.codecogs.com/gif.latex?h_2=\frac{-\frac{3}{20}m(1.5-1)0.2m}{(0.1m)(1.5)}" border="0"
 />
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?h_1=-\frac{\frac{3}{20}\frac{1}{2}\frac{1}{5}}{\frac{1}{10}\frac{3}{2}}m" border="0"
+  "http://latex.codecogs.com/gif.latex?h_2=-\frac{\frac{3}{20}\frac{1}{2}\frac{1}{5}}{\frac{1}{10}\frac{3}{2}}m" border="0"
 />
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?h_1=-\frac{\frac{3}{200}}{\frac{3}{20}}m" border="0"
+  "http://latex.codecogs.com/gif.latex?h_2=-\frac{\frac{3}{200}}{\frac{3}{20}}m" border="0"
 />
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?h_1=-\frac{1}{10}m" border="0"
+  "http://latex.codecogs.com/gif.latex?h_2=-\frac{1}{10}m" border="0"
 />
 
 Entonces, la distancia del vértice a la imagen es
