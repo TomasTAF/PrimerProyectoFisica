@@ -1,3 +1,5 @@
+4.1 Una varilla transparente de 20 cm de longitud e índice de refracción 1.5 tiene pulidas las superficies de sus extremos de radios de curvatura de 10 y −10 cm. Encuentre la posición y la naturaleza de la imagen de un pequeño objeto axial mantenido a una distancia de 20 cm del vértice izquierdo de la barra.
+
 Se usaran los siguientes modelos:
 
 <img src=
