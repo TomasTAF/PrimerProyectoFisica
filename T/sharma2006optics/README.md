@@ -98,7 +98,7 @@ Luego, sustituyendo en la segunda ecuación, se tiene
   "http://latex.codecogs.com/gif.latex?S_i = 0.3m" border="0"
 />
 
-Pero esa es la distancia del segundo plano principal a la imagen. Así que hay que calcular la distancia del vértice a la imagen
+Pero esa es la distancia del segundo plano principal a la imagen. Así que hay que calcular la distancia del segundo plano principal al vértice
 
 <img src=
   "http://latex.codecogs.com/gif.latex?h_2=\frac{-\frac{3}{20}m(1.5-1)0.2m}{(0.1m)(1.5)}" border="0"
