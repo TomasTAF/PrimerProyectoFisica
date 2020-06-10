@@ -1,0 +1,1 @@
+1002 Un rayo de luz horizontal atraviesa un prisma de índice 1.50 y un ángulo de vértice de 4 ° y luego golpea un espejo vertical, como se muestra en la figura. ¿A través de qué ángulo debe girarse el espejo si, después de la reflexión, el rayo debe ser horizontal?
