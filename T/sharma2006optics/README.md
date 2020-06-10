@@ -123,5 +123,5 @@ Entonces, la distancia del vértice a la imagen es
 />
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?S=\frac{2{10}m" border="0"
+  "http://latex.codecogs.com/gif.latex?S=\frac{2}{10}m" border="0"
 />
