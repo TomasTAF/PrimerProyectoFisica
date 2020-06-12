@@ -1,11 +1,12 @@
-Problema 
+# Capitulo 1
+## Problema 3 
 Una barra rectangular de vidrio con forma de U invertida tiene sus dos extremos planos 
 Determine el valor mínimo para la relación R/d para que un haz de luz que entre por el extremo A y salga completamente por el extremo B
 Donde d es el ancho de la barra, y R es el diametro de la curvatura 
 El indice de refraccion del vidrio es de 1.5 
 
 
-Existen 3 cosas a considerar
+#### Existen 3 cosas a considerar
 1. Reflexion total interna (RTI)
 2. El indice de refraccion del aire n2 redondeado a 1
 3. Todos los angulos de reflexion seran iguales al del primer impacto
