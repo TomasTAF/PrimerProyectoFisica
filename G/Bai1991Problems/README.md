@@ -33,6 +33,7 @@ De este modo:
 <img src=
 "http://latex.codecogs.com/gif.latex?sin(\theta_{c})>\frac{1}{n}" border="0"
 />
+
 <img src=
 "http://latex.codecogs.com/gif.latex?\frac{R}{(R+d)}\geq\frac{1}{n}" border="0"
 />
