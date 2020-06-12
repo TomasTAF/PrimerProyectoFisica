@@ -11,21 +11,25 @@ Existen 3 cosas a considerar
 3. Todos los angulos de reflexion seran iguales al del primer impacto
 
 Podemos obtener el angulo critico para la RTI, de la siguiente manera:
+
 <img src=
   "http://latex.codecogs.com/gif.latex?sin(\theta_{c})=\frac{n_{2}}{n_{1}}" border="0"
 /> 
 
 Podemos observar en el diagrama, la relación geometrica 
+
 <img src=
 "http://latex.codecogs.com/gif.latex?sin(\alpha)=\frac{R}{(R+d)}" border="0"
 /> 
 
 Siendo alfa el angulo de incidencia del primer rayo dentro del tubo, como queremos que ese angulo sea suficiente para la RTI
+
 <img src=
 "http://latex.codecogs.com/gif.latex?\alpha<\theta_{c}" border="0"
 />
 
 De este modo:
+
 <img src=
 "http://latex.codecogs.com/gif.latex?sin(\theta_{c})>\frac{1}{n}" border="0"
 />
@@ -34,6 +38,7 @@ De este modo:
 />
 
 Por lo tanto 
+
 <img src=
 "http://latex.codecogs.com/gif.latex?(\frac{R}{(d)})_{min}=\frac{1}{n-1}" border="0"
 /> 
