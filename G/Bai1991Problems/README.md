@@ -42,5 +42,5 @@ De este modo:
 Por lo tanto 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?(\frac{R}{(d)})_{min}=\frac{1}{n-1}" border="0"
+"http://latex.codecogs.com/gif.latex?(\frac{R}{d})_{min}=\frac{1}{n-1}" border="0"
 /> 
