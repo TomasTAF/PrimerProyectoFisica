@@ -5,22 +5,38 @@ Deseamos hacer una lente con forma de menisco (concavo-convexa) La potencia de l
 Calcule los radios de curvatura de las caras de la lente si el indice de refraccion del vidrio es de 1.52
 
 #### Datos
-* Potencia 1/f=4
-* R1=4R2
-* nv=1.52
-* na=1
+* Potencia 
+
+    <img src=
+"http://latex.codecogs.com/gif.latex?\frac{1}{f}=4" border="0"
+/> 
+*  Radios de curvatura 
+
+    <img src=
+"http://latex.codecogs.com/gif.latex?R_{1}=aR_{2}" border="0"
+/>
+* Indice de refracción del vidrio
+
+    <img src=
+"http://latex.codecogs.com/gif.latex?n_{v}=1.52" border="0"
+/> 
+* Indice de refracción del aire
+
+    <img src=
+"http://latex.codecogs.com/gif.latex?n_{a}=1" border="0"
+/> 
 
 #### Suposiciones 
 * Usamos una lente delgada
-* Por lo que tenemos la ecuación del fabricante de lentes
+* Entonces es válida la ecuación del fabricante de lentes
 
-<img src=
+    <img src=
 "http://latex.codecogs.com/gif.latex?\frac{1}{S_{0}}-\frac{1}{S_{v}}=\frac{nv-na}{na}*(\frac{1}{R_{1}}-\frac{1}{R_{2}})" border="0"
 /> 
 
 * Usando la Ec. de Gauss
 
-<img src=
+    <img src=
 "http://latex.codecogs.com/gif.latex?\frac{1}{S_{0}}-\frac{1}{S_{v}}=\frac{1}{f}" border="0"
 /> 
 
