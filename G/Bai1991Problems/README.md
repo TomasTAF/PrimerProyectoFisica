@@ -3,18 +3,18 @@
 Una barra rectangular de vidrio con forma de U invertida tiene sus dos extremos planos 
 Determine el valor mínimo para la relación R/d para que un haz de luz que entre por el extremo A y salga completamente por el extremo B
 Donde d es el ancho de la barra, y R es el diametro de la curvatura 
-El indice de refraccion del vidrio es de 1.5 
+El indice de refraccion del vidrio nv es de 1.5 
 
 
 #### Existen 3 cosas a considerar
 1. Reflexion total interna (RTI)
-2. El indice de refraccion del aire n2 redondeado a 1
+2. El indice de refraccion del aire na redondeado a 1
 3. Todos los angulos de reflexion seran iguales al del primer impacto
 
 Podemos obtener el angulo critico para la RTI, de la siguiente manera:
 
 <img src=
-  "http://latex.codecogs.com/gif.latex?sin(\theta_{c})=\frac{n_{2}}{n_{1}}" border="0"
+  "http://latex.codecogs.com/gif.latex?sin(\theta_{c})=\frac{n_{a}}{n_{v}}" border="0"
 /> 
 
 Podemos observar en el diagrama, la relación geometrica 
@@ -32,15 +32,27 @@ Siendo alfa el angulo de incidencia del primer rayo dentro del tubo, como querem
 De este modo:
 
 <img src=
-"http://latex.codecogs.com/gif.latex?sin(\theta_{c})>\frac{1}{n}" border="0"
+"http://latex.codecogs.com/gif.latex?sin(\theta_{c})>\frac{1}{n_{v}}" border="0"
 />
 
 <img src=
-"http://latex.codecogs.com/gif.latex?\frac{R}{(R+d)}\geq\frac{1}{n}" border="0"
+"http://latex.codecogs.com/gif.latex?\frac{R}{(R+d)}\geq\frac{1}{n_{v}}" border="0"
 />
 
 Por lo tanto 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?(\frac{R}{d})_{min}=\frac{1}{n-1}" border="0"
+"http://latex.codecogs.com/gif.latex?(\frac{R}{d})_{min}=\frac{1}{n_{v}-1}" border="0"
+/> 
+
+<img src=
+"http://latex.codecogs.com/gif.latex?(\frac{R}{d})_{min}=\frac{1}{1.5-1}" border="0"
+/> 
+
+<img src=
+"http://latex.codecogs.com/gif.latex?(\frac{R}{d})_{min}=\frac{1}{0.5}" border="0"
+/> 
+
+<img src=
+"http://latex.codecogs.com/gif.latex?(\frac{R}{d})_{min}=2" border="0"
 /> 
