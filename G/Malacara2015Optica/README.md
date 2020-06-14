@@ -13,7 +13,7 @@ Calcule los radios de curvatura de las caras de la lente si el indice de refracc
 *  Radios de curvatura 
 
     <img src=
-"http://latex.codecogs.com/gif.latex?R_{1}=aR_{2}" border="0"
+"http://latex.codecogs.com/gif.latex?R_{1}=3R_{2}" border="0"
 />
 * Indice de refracción del vidrio
 
@@ -49,53 +49,45 @@ Al igualar ambas ecuaciones tenemos una unica ecuacion que describe una lente, d
 Si sutituimos la potencia, los radios y los indices tenemos:
 
 <img src=
-"http://latex.codecogs.com/gif.latex?4=\frac{1.52-1}{1}*(\frac{1}{R_{1}}-\frac{1}{4R_{1}})" border="0"
+"http://latex.codecogs.com/gif.latex?4=\frac{1.52-1}{1}*(\frac{1}{3R_{2}}-\frac{1}{R_{2}})" border="0"
 /> 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?4=0.52*(\frac{1}{R_{1}}-\frac{1}{4R_{1}})" border="0"
+"http://latex.codecogs.com/gif.latex?4=0.52*(\frac{1}{3R_{2}}-\frac{1}{R_{2}})" border="0"
 /> 
 
-Multiplicamos todo por 4
 
 <img src=
-"http://latex.codecogs.com/gif.latex?4*[4]=0.52*(\frac{1}{R_{1}}-\frac{1}{4R_{1}})*[4]" border="0"
-/> 
-
-<img src=
-"http://latex.codecogs.com/gif.latex?16=0.52*(\frac{4}{R_{1}}-\frac{1}{R_{1}})" border="0"
+"http://latex.codecogs.com/gif.latex?/frac{4}{0.52}=(\frac{1}{3R_{2}}-\frac{1}{R_{2}})" border="0"
 /> 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?16=0.52*(\frac{3}{R_{1}})" border="0"
+"http://latex.codecogs.com/gif.latex?/frac{0.52}{4}=\frac{3R_{2}}{1}-\frac{R_{2}}{1}" border="0"
 /> 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?\frac{16}{0.52}=(\frac{3}{R_{1}})" border="0"
+"http://latex.codecogs.com/gif.latex?/frac{0.52}{4}=3R_{2}-R_{2}" border="0"
 /> 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?8.32=(\frac{3}{R_{1}})" border="0"
+"http://latex.codecogs.com/gif.latex?0.13=2R_{2}})" border="0"
 /> 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?\frac{1}{8.32}=(\frac{R_{1}}{3})" border="0"
+"http://latex.codecogs.com/gif.latex?0.26=R_{2})" border="0"
 /> 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?\frac{3}{8.32}=R_{1}" border="0"
+"http://latex.codecogs.com/gif.latex?R_{2}=0.26" border="0"
 /> 
 
-<img src=
-"http://latex.codecogs.com/gif.latex?R_{1}=0.36" border="0"
-/> 
 
 Por lo tanto 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?R_{2}=4*0.36" border="0"
+"http://latex.codecogs.com/gif.latex?R_{1}=3*0.26" border="0"
 /> 
 
 <img src=
-"http://latex.codecogs.com/gif.latex?R_{2}=1.44" border="0"
+"http://latex.codecogs.com/gif.latex?R_{1}=0.78" border="0"
 /> 
